@@ -1,0 +1,16 @@
+C:\Users\DanielCollins\vaml-scripts\bin\Debug\net5.0\vaml-scripts.exe
+C:\Users\DanielCollins\vaml-scripts\bin\Debug\net5.0\vaml-scripts.deps.json
+C:\Users\DanielCollins\vaml-scripts\bin\Debug\net5.0\vaml-scripts.runtimeconfig.json
+C:\Users\DanielCollins\vaml-scripts\bin\Debug\net5.0\vaml-scripts.runtimeconfig.dev.json
+C:\Users\DanielCollins\vaml-scripts\bin\Debug\net5.0\vaml-scripts.dll
+C:\Users\DanielCollins\vaml-scripts\bin\Debug\net5.0\ref\vaml-scripts.dll
+C:\Users\DanielCollins\vaml-scripts\bin\Debug\net5.0\vaml-scripts.pdb
+C:\Users\DanielCollins\vaml-scripts\obj\Debug\net5.0\vaml-scripts.csproj.AssemblyReference.cache
+C:\Users\DanielCollins\vaml-scripts\obj\Debug\net5.0\vaml-scripts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielCollins\vaml-scripts\obj\Debug\net5.0\vaml-scripts.AssemblyInfoInputs.cache
+C:\Users\DanielCollins\vaml-scripts\obj\Debug\net5.0\vaml-scripts.AssemblyInfo.cs
+C:\Users\DanielCollins\vaml-scripts\obj\Debug\net5.0\vaml-scripts.csproj.CoreCompileInputs.cache
+C:\Users\DanielCollins\vaml-scripts\obj\Debug\net5.0\vaml-scripts.dll
+C:\Users\DanielCollins\vaml-scripts\obj\Debug\net5.0\ref\vaml-scripts.dll
+C:\Users\DanielCollins\vaml-scripts\obj\Debug\net5.0\vaml-scripts.pdb
+C:\Users\DanielCollins\vaml-scripts\obj\Debug\net5.0\vaml-scripts.genruntimeconfig.cache
